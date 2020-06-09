@@ -1,5 +1,5 @@
 # metatron
 
 ## Used in
-https://interspace.chat
-https://noncon.interspace.chat
+- https://interspace.chat
+- https://noncon.interspace.chat
